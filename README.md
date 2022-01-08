@@ -45,9 +45,9 @@ And of course **Chatterpatter** itself is open source on Github :)
 ***
 ## Images
 
-[!(Create A Room)](/images/Create-A-Room.png)
-[!(Join A Rom)](/images/Join-A-Room.png)
-[!(Instructions)](/images/Ins-tructions.png)
+[![](/images/Create-A-Room.png)](/images/Create-A-Room.png)
+[![](/images/Join-A-Room.png)](/images/Join-A-Room.png)
+[![](/images/Ins-tructions.png)](/images/Ins-tructions.png)
 ***
 ## Installation
 
