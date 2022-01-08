@@ -8,6 +8,27 @@
 ![APM](https://img.shields.io/apm/l/build?style=for-the-badge)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ***
+## Table of Contents 
+- [ChatterPatter](#chatterpatter)
+    + [**Python Chat Application**](#--python-chat-application--)
+  * [Python Libraries and Modules Used](#python-libraries-and-modules-used)
+  * [IDE Used : PyCharm](#ide-used---pycharm)
+  * [Features](#features)
+  * [Note from Developer](#note-from-developer)
+  * [Images](#images)
+  * [Installation](#installation)
+  * [Executing the Program](#executing-the-program)
+    + [.exe Made with the help of Auto-py-to-exe : https://pypi.org/project/auto-py-to-exe/](#exe-made-with-the-help-of-auto-py-to-exe---https---pypiorg-project-auto-py-to-exe-)
+  * [Future of this ??](#future-of-this---)
+  * [Development](#development)
+    + [The Developer after writing this Readme :](#the-developer-after-writing-this-readme--)
+  * [License](#license)
+  * [FAQs](#faqs)
+  * [Thank You for Going through my software and Helping me . Make sure to STAR the project for supporting me  :) :) (～￣▽￣)～](#thank-you-for-going-through-my-software-and-helping-me--make-sure-to-star-the-project-for-supporting-me---------------)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+***
 ChatterPatter is a simple GUI based chat application which includes both SERVER AND CLIENT scirpts in same application. Simple in front , complex in back . So complex that even the developer fears going through it again and again.
 Developed solely on Python.
 
@@ -26,11 +47,11 @@ Developed solely on Python.
 - Colorful Interface
 - An instructions tab as well to clarify the usage
 - Create a Server Room
-- Embbeded a partial client with Server Room so as the Room Maker need not to join with the client as well
-- Clients can join easily with the room code generated
+- Server Room Maker can chat through the server interface , instead of opening a new client for himslef/herself
+- Clients can join easily with the generated room code 
 - Close Room option closes the sockets and rooms
 - All the chats are shown to everyone and the server can see when someone has joined
-- Users can also use their own names to chat by entering it in the entry boxes ( Completely Optional )
+- Users can also use their own names to chat by entering it in the entry boxes ( Optional )
 ***
 ## Note from Developer
 
@@ -78,7 +99,7 @@ ChatterPatter uses Python only , so one who knows even the basics of it can cont
 Make a change in your file and instantaneously see your updates!
 
 ***
-### The Life of this Developer :
+### The Developer after writing this Readme :
 [![](https://i.imgur.com/vT4Oclk.gif)](https://i.imgur.com/vT4Oclk.gif)
 ***
 ## License
@@ -89,7 +110,7 @@ MIT
 ***
 ## FAQs
 Q1) I Found a bug in the software. How can I report it ? <br/>
-Ans) You can mail the developer using **gurneet222@gmail.com** or you can use ISSUES in github as well.
+Ans) You can mail the developer using **gurneet222@gmail.com** or you can use ISSUES in github as well.<br/>
 Q2) I am interested in supporting developer . How can I help him ? <br/>
 Ans) Currently , I ( the developer ) is in no condition to ask or accept any help . But I always appreciate if you share my content and STAR it on github . Since , I am in learning stage , I will be making more softwares in future . I mostly like to work solo , so , you won't be able to help me currently . Anyways , thank you for you support and I would love to answer your questions or help you in your works as well. Thank you !! :))
 ***
