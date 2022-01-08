@@ -78,7 +78,7 @@ Make a change in your file and instantaneously see your updates!
 
 ***
 ### The Life of this Developer :
-[![](https://i.imgur.com/vT4Oclk.gifv)](https://i.imgur.com/vT4Oclk.gifv)
+[![](https://i.imgur.com/vT4Oclk.gif)](https://i.imgur.com/vT4Oclk.gif)
 ***
 ## License
 
