@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+* linguist-vendored
+*.tcl -linguist-vendored=true
+*.py -linguist-vendored=false
