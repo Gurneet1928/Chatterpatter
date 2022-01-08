@@ -78,7 +78,7 @@ Make a change in your file and instantaneously see your updates!
 
 ***
 ### The Life of this Developer :
-[![](https://tenor.com/view/python-gif-20799882.gif)](https://tenor.com/view/python-gif-20799882.gif)
+[![](https://i.imgur.com/vT4Oclk.gifv)](https://i.imgur.com/vT4Oclk.gifv)
 ***
 ## License
 
