@@ -17,8 +17,9 @@ Developed solely on Python.
 - Threading
 - Tkinter (Tabs , Listbox , Labels , Entry , etc.)
 - Coomments (😅)
-- IDE Used : PyCharm
 - and a lot ✨Magic ✨
+
+## IDE Used : PyCharm
 ***
 ## Features
 - Works only on LAN , so all devices must be connected to same network
