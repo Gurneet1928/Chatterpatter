@@ -26,8 +26,6 @@
   * [FAQs](#faqs)
   * [Thank You for Going through my software and Helping me . Make sure to STAR the project for supporting me  :) :) (～￣▽￣)～](#thank-you-for-going-through-my-software-and-helping-me--make-sure-to-star-the-project-for-supporting-me---------------)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ***
 ChatterPatter is a simple GUI based chat application which includes both SERVER AND CLIENT scirpts in same application. Simple in front , complex in back . So complex that even the developer fears going through it again and again.
 Developed solely on Python.
